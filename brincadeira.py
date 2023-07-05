@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 
 root = tk.Tk()
-root.title('Aceita?')
+root.title('...?')
 root.geometry('600x600')
 root.configure(background='#ffc8dd')
 
